@@ -21,8 +21,9 @@
   },
   "cache": {
     "browser": {
-      "max-age": 31536000",
+      "max-age": 31536000,
       "immutable": true
     }
+    
   }
 }
