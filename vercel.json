@@ -18,12 +18,5 @@
   ],
   "env": {
     "VITE_API_URL": "https://teu-backend-rails.vercel.app/api"
-  },
-  "cache": {
-    "browser": {
-      "max-age": 31536000,
-      "immutable": true
-    }
-    
   }
 }
